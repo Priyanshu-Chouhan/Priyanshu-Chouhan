@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Chouhan</h1>
-<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixcap.com%2Fitem%2Fdeveloper-working-on-laptop-1224140911330&psig=AOvVaw3EkgTWNn-EQdavZ5mOMKVP&ust=1735249883279000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjRneXzw4oDFQAAAAAdAAAAABAE](https://pixcap.com/cdn/library/template/1725395126151/thumbnail/Developer_Working_On_Laptop_3D_Illustration_transparent_800_emp.webp)"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixcap.com%2Fitem%2Fdeveloper-working-on-laptop-1224140911330&psig=AOvVaw3EkgTWNn-EQdavZ5mOMKVP&ust=1735249883279000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjRneXzw4oDFQAAAAAdAAAAABAE"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-chouhan&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-chouhan" /> </p>
 
