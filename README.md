@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Chouhan</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">As a computer science graduate with a passion for problem-solving and application development, I possess expertise in both front-end and back-end development. I have a strong foundation in computer science principles and experience working with C /C++ ,Java, data structures, and system design. Additionally, I am always eager to learn new technologies and enjoy collaborating effectively with tools like , Git, and GitHub. My skill set includes experience with HTML ,CSS JavaScript, React, Node.js, Express,Js,SQL,MongodDb, more. I am confident in my ability to deliver high-quality results and am excited to contribute to innovative projects. Let's work together to create something amazing!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-chouhan&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-chouhan" /> </p>
 
