@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Chouhan</h1>
-<h3 align="center">As a computer science graduate with a passion for problem-solving and application development, I possess expertise in both front-end and back-end development. I have a strong foundation in computer science principles and experience working with C /C++ ,Java, data structures, and system design. Additionally, I am always eager to learn new technologies and enjoy collaborating effectively with tools like , Git, and GitHub. My skill set includes experience with HTML ,CSS JavaScript, React, Node.js, Express,Js,SQL,MongodDb, more. I am confident in my ability to deliver high-quality results and am excited to contribute to innovative projects. Let's work together to create something amazing!</h3>
+<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixcap.com%2Fitem%2Fdeveloper-working-on-laptop-1224140911330&psig=AOvVaw3EkgTWNn-EQdavZ5mOMKVP&ust=1735249883279000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjRneXzw4oDFQAAAAAdAAAAABAE](https://pixcap.com/cdn/library/template/1725395126151/thumbnail/Developer_Working_On_Laptop_3D_Illustration_transparent_800_emp.webp)"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-chouhan&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-chouhan" /> </p>
 
